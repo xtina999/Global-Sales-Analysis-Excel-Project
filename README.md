@@ -9,7 +9,7 @@
 ## Файли
 - `analysis.xlsx` — повний аналіз в Google Sheets
  [Sales Analysis](https://docs.google.com/spreadsheets/d/1ukkBHs9u8lgVkC7a1Zv4KohIoO-gYhsOtPFUldc11SE/edit?gid=0#gid=0)
-- `visuals/` — графіки та дашборд
+- `images/` — графіки та дашборд
 
 ## Дані
 Три таблиці:
