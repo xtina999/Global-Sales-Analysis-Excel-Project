@@ -80,7 +80,7 @@
    для розширення
 
 ## Дашборд
-![Dashboard](visuals/dashboard.png)
+![Dashboard](images/Дашборд.png)
 ![Categories](visuals/categories.png)
 ![Geography](visuals/geography.png)
 ![ABC Analysis](visuals/abc_analysis.png)
