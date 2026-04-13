@@ -6,6 +6,11 @@
 Аналіз охоплює категорії товарів, географію, 
 канали збуту, логістику та динаміку продажів.
 
+## Файли
+- `analysis.xlsx` — повний аналіз в Google Sheets
+ [Google Sheets](https://docs.google.com/spreadsheets/d/1ukkBHs9u8lgVkC7a1Zv4KohIoO-gYhsOtPFUldc11SE/edit?gid=0#gid=0)
+- `visuals/` — графіки та дашборд
+
 ## Дані
 Три таблиці:
 - **Events** — продажі за декілька років
@@ -80,6 +85,4 @@
 ![Geography](visuals/geography.png)
 ![ABC Analysis](visuals/abc_analysis.png)
 
-## Файли
-- `analysis.xlsx` — повний аналіз в Google Sheets
-- `visuals/` — графіки та дашборд
+
