@@ -81,8 +81,14 @@
 
 ## Дашборд
 ![Dashboard](images/Дашборд.png)
+
+## Аналіз по категоріям
 ![Categories](images/Category_analysis.png)
+
+## АВС аналіз по к-сті замовлення товару
 ![ABC Num_of_values](images/ABC_NUMofvalues.png)
+
+## АВС аналіз по доходу з товарів
 ![ABC Profit](images/ABC_PROFIT.png)
 
 
