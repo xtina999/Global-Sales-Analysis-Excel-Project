@@ -81,8 +81,8 @@
 
 ## Дашборд
 ![Dashboard](images/Дашборд.png)
-![Categories](visuals/categories.png)
-![Geography](visuals/geography.png)
-![ABC Analysis](visuals/abc_analysis.png)
+![Categories](images/Category_analysis.png)
+![ABC Num_of_values](images/ABC_NUMofvalues.png)
+![ABC Profit](images/ABC_PROFIT.png)
 
 
