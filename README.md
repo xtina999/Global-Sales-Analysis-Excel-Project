@@ -8,7 +8,7 @@
 
 ## Файли
 - `analysis.xlsx` — повний аналіз в Google Sheets
- [Google Sheets](https://docs.google.com/spreadsheets/d/1ukkBHs9u8lgVkC7a1Zv4KohIoO-gYhsOtPFUldc11SE/edit?gid=0#gid=0)
+ [Sales Analysis](https://docs.google.com/spreadsheets/d/1ukkBHs9u8lgVkC7a1Zv4KohIoO-gYhsOtPFUldc11SE/edit?gid=0#gid=0)
 - `visuals/` — графіки та дашборд
 
 ## Дані
